@@ -8,8 +8,8 @@ This project recommends movies based on similarity of content. It uses:
 - Cosine similarity for measuring similarity
   How to Run:
 -  Clone the repo:
-   git clone https://github.com/yourusername/ML-projects.git
-   cd ML-projects
+- git clone https://github.com/yourusername/ML-projects.git
+- cd ML-projects
 
 ##2)SMS spam classifier
 
@@ -22,9 +22,9 @@ Features:
 -  It also uses Naive Bayes as a model predictor.
 How to run:
 - Clone the repo and navigate to this folder:
-git clone https://github.com/yourusername/ML-projects.git
-cd ML-projects/sms-spam-detector
+- git clone https://github.com/yourusername/ML-projects.git
+- cd ML-projects/sms-spam-detector
 - Install dependencies:
-pip install -r requirements.txt
+- pip install -r requirements.txt
 - Start the Streamlit app:
-streamlit run app.py
+- streamlit run app.py
