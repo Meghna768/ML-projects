@@ -8,8 +8,10 @@ This project recommends movies based on similarity of content. It uses:
 - Cosine similarity for measuring similarity
   How to Run:
 -  Clone the repo:
-- git clone https://github.com/yourusername/ML-projects.git
-- cd ML-projects
+  
+    git clone https://github.com/yourusername/ML-projects.git
+   
+    cd ML-projects
 
 ##2)SMS spam classifier
 
